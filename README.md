@@ -2,7 +2,7 @@
 
 ![banner](https://your-link-to-a-banner-image.com/banner.png)
 
-Soy un **Científico de Datos** apasionado por **Machine Learning** y **Deep Learning**, con una sólida formación en **Ingeniería de Sistemas**. Actualmente, estoy finalizando un bootcamp intensivo de **Data Science** con Tripleten y cursando mi último año en la **Universidad Peruana de Ciencias Aplicadas (UPC)**. Como miembro del **Grupo de Excelencia Académica (GEA)**, me esfuerzo constantemente por alcanzar y mantener el más alto nivel académico y profesional.
+Soy un **Científico de Datos** con una gran pasión por **Machine Learning** y **Deep Learning**. Actualmente estoy completando un bootcamp intensivo de **Data Science** con Tripleten y cursando **Ingeniería de Sistemas** en la Universidad Peruana de Ciencias Aplicadas (UPC). Formo parte del **Grupo de Excelencia Académica (GEA)**, destacando entre el top 3% de los estudiantes de mi universidad.
 
 ---
 

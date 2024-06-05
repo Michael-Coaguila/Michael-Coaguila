@@ -1,6 +1,6 @@
 # ¡Hola, soy Michael Coaguila! 👋
 
-![banner](https://your-link-to-a-banner-image.com/banner.png)
+![banner](Banner.png)
 
 Soy un **Científico de Datos** con una gran pasión por **Machine Learning** y **Deep Learning**. Actualmente estoy completando un bootcamp intensivo de **Data Science** con Tripleten y cursando **Ingeniería de Sistemas** en la Universidad Peruana de Ciencias Aplicadas (UPC). Formo parte del **Grupo de Excelencia Académica (GEA)**, destacando entre el top 3% de los estudiantes de mi universidad.
 

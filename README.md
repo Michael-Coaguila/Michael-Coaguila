@@ -35,6 +35,7 @@ Me mantengo en constante aprendizaje sobre las herramientas que están redefinie
 | | Proyecto | Stack | Estado |
 |---|---|---|---|
 | 📱 | App personal | Flutter + Dart | 🚧 En desarrollo |
+| ⌨️ | Macro Quick Access — overlay táctil de atajos | Python · PyQt5 | ✅ Completado |
 | 🤖 | Agentes de IA, MCP servers, automatización | n8n · Claude AI | 🔄 Aprendizaje continuo |
 | 📊 | Portafolio de Data Science — 15 proyectos | Python · ML · DL | ✅ Completado |
 
@@ -148,6 +149,21 @@ Sistema web completo para la gestión de matrículas universitarias. Proyecto de
 App móvil Android para gestión de tienda de calzado infantil. Desarrollada en equipo con integración a servicios cloud.
 
 `Kotlin` `Android Studio` `AWS S3` `AWS API` `PostgreSQL` `Trabajo en equipo`
+
+---
+
+### [⌨️ Macro Quick Access — Overlay de atajos para Windows](https://github.com/Michael-Coaguila/macro-quick-access)
+
+Panel flotante táctil siempre visible para ejecutar atajos de teclado, abrir URLs y lanzar aplicaciones. Diseñado para usuarios con movilidad reducida que usan pantallas táctiles o tecnología de asistencia.
+
+| Característica | Detalle |
+|---|---|
+| Perfiles automáticos | Cambia de perfil según la aplicación activa en primer plano |
+| Tipos de acción | Hotkeys · URLs · Ejecutables |
+| Interfaz | Botones grandes con color personalizable · navegación por swipe |
+| Integración | System tray · hotkey global (Ctrl+Shift+M) · siempre encima |
+
+`Python` `PyQt5` `pyautogui` `pywin32` `pynput` `Windows 10/11`
 
 ---
 

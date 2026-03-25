@@ -36,6 +36,7 @@ Me mantengo en constante aprendizaje sobre las herramientas que están redefinie
 |---|---|---|---|
 | 📱 | App personal | Flutter + Dart | 🚧 En desarrollo |
 | ⌨️ | Macro Quick Access — overlay táctil de atajos | Python · PyQt5 | ✅ Completado |
+| 🗳️ | VotoCruzado — datos electorales Perú 2026 | Python · JSON · CSV | ✅ Completado |
 | 🤖 | Agentes de IA, MCP servers, automatización | n8n · Claude AI | 🔄 Aprendizaje continuo |
 | 📊 | Portafolio de Data Science — 15 proyectos | Python · ML · DL | ✅ Completado |
 
@@ -164,6 +165,26 @@ Panel flotante táctil siempre visible para ejecutar atajos de teclado, abrir UR
 | Integración | System tray · hotkey global (Ctrl+Shift+M) · siempre encima |
 
 `Python` `PyQt5` `pyautogui` `pywin32` `pynput` `Windows 10/11`
+
+---
+
+### [🗳️ VotoCruzado — Dataset Electoral Perú 2026](https://github.com/Michael-Coaguila/VotoCruzado)
+
+Dataset completo de las Elecciones Generales Perú 2026 extraído del portal oficial del JNE mediante reverse engineering de sus APIs. Facilita el acceso a datos electorales públicos para investigación ciudadana, periodística y análisis de datos.
+
+| Categoría | Candidatos |
+|-----------|-----------|
+| Presidenciales | 108 |
+| Parlamento Andino | 528 |
+| Senadores | 3,433 |
+| Diputados | 5,469 |
+| Organizaciones con plan de gobierno estructurado | 36 |
+
+- Incluye hojas de vida: educación, experiencia, antecedentes penales y patrimonio
+- Planes de gobierno estructurados por dimensión (social, económica, ambiental, institucional)
+- Cruce posible con SUNAT, Poder Judicial y Contraloría por DNI
+
+`Python` `JSON` `CSV` `Git LFS` `Web Scraping` `Datos Abiertos`
 
 ---
 
